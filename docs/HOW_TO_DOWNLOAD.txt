@@ -1,0 +1,32 @@
+HOW TO DOWNLOAD THE EXCEL FILES
+================================
+
+If the agent UI or GitHub does not show a Download button for .xlsx
+(common when the branch name contains a slash: cursor/...), use one of these:
+
+1) ZIP (both workbooks)
+   docs/D-MIMO_Excel_Documents.zip
+
+2) Short-name Excel files
+   docs/D-MIMO_Review.xlsx
+   docs/D-MIMO_Deployment_Guide.xlsx
+
+3) HTML page with Download buttons (open in a browser, then click)
+   docs/DOWNLOAD_D-MIMO_Excel.html
+
+Direct GitHub links (this branch, slash encoded correctly):
+
+ZIP:
+https://github.com/miles4482/4G-RAN-Feature-study-and-Deployment-DMIMO/raw/refs/heads/cursor/dmimo-deployment-excel-docs-5f71/docs/D-MIMO_Excel_Documents.zip
+
+Review workbook:
+https://github.com/miles4482/4G-RAN-Feature-study-and-Deployment-DMIMO/raw/refs/heads/cursor/dmimo-deployment-excel-docs-5f71/docs/D-MIMO_Review.xlsx
+
+Deployment guide:
+https://github.com/miles4482/4G-RAN-Feature-study-and-Deployment-DMIMO/raw/refs/heads/cursor/dmimo-deployment-excel-docs-5f71/docs/D-MIMO_Deployment_Guide.xlsx
+
+HTML download page:
+https://github.com/miles4482/4G-RAN-Feature-study-and-Deployment-DMIMO/raw/refs/heads/cursor/dmimo-deployment-excel-docs-5f71/docs/DOWNLOAD_D-MIMO_Excel.html
+
+Pull request:
+https://github.com/miles4482/4G-RAN-Feature-study-and-Deployment-DMIMO/pull/1
